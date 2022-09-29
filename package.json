@@ -1,0 +1,22 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbakde24/node-learning.git"
+  },
+  "author": "rohit bakde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbakde24/node-learning/issues"
+  },
+  "homepage": "https://github.com/rohitbakde24/node-learning#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
